@@ -5,9 +5,9 @@ I haven't written a single line of code as of now but I hope to complete it. So 
 
 # Features
 
--[] Bar
--[] Clock
--[] Notification
--[] OSD
--[] Lockscreen
--[] Settings
+- [ ] Bar
+- [ ] Clock
+- [ ] Notification
+- [ ] OSD
+- [ ] Lockscreen
+- [ ] Settings
